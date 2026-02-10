@@ -42,4 +42,26 @@ OpenCV (cv2)
 
 Haar Cascade Classifier
 
+🎯 Key Features
+Real-time face detection using webcam
+
+Lightweight and fast execution
+
+Interactive mouse-click CLOSE button
+
+Keyboard-based quit option (q)
+
+Simple and readable implementation
+
+📌 Use Cases
+Attendance systems
+
+Surveillance systems
+
+Human-computer interaction
+
+Computer vision learning projects
+
+
+
 Webcam (Real-Time Video Capture)
